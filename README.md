@@ -4,7 +4,7 @@
 ## Deployment
 Hosted on https://header-parser-ms-4iar.herokuapp.com/
 
-## Usage
+## Usage and examples
 
 **Get information from normal user-agent**
 ```
